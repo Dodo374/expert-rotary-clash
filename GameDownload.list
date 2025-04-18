@@ -43,6 +43,7 @@ DOMAIN,xvcf1.xboxlive.com
 DOMAIN,xvcf2.xboxlive.com
 DOMAIN,d1.xboxlive.com
 DOMAIN,d2.xboxlive.com
+DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,cdn.ubi.com
 DOMAIN-SUFFIX,dyn.riotcdn.net
 DOMAIN-SUFFIX,steamcontent.com
